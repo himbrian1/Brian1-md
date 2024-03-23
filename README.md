@@ -22,14 +22,14 @@
 
 # 
 
-Queen elisa whatsapp bot is,
+Brian whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
 
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
+* Brian 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
 <p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT Brian WEBSITE" height="35" width="150" /></a>
 </p align="left">
 
 # 
@@ -40,7 +40,7 @@ A very good bot that you can use in whatsapp.
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://on render.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 
 # 
 
@@ -64,12 +64,14 @@ A very good bot that you can use in whatsapp.
 5. deploy using your link 💖
 
 
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USING Brian 💃💖
 
 
-[Join Public Group](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+[Join Public Group](https://chat.whatsapp.com/DQIqgNkMH1n2O9Bt0bVWKV)
+(join public channel)
+(https://whatsapp.com/channel/0029VaHZvyZEKyZJFd0wmp1K)
 
 
 
-Thanks For - [tuna](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+
 
